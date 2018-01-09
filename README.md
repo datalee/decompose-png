@@ -1,0 +1,2 @@
+# decompose-png
+decompose(AirPassengers)
